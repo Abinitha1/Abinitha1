@@ -2,7 +2,7 @@
 
 Artificial Intelligence and Data Science Student
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                             
-- 🌱 I’m currently learning Power Bi
+- 🌱 I’m currently learning Power Bi 
 - 👯 I’m looking to collaborate on ML/AI
 - 🤔 I’m looking for help with Placements in 
 - 💬 Ask me about Tech
@@ -23,4 +23,4 @@ Artificial Intelligence and Data Science Student
 ![Abinitha's GitHub stats](![LeetCode Stats](https://leetcard.jacoblin.cool/Abinitha?theme=dark&font=Molle&ext=contest))
 
 
-[![Hareesh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hareesh-r&bg_color=000000&color=ffffff&line=51f565&point=ffffff&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=Abinitha&bg_color=403d3d&color=ffffff&line=4c689e&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)

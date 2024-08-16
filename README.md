@@ -20,7 +20,7 @@ Artificial Intelligence and Data Science Student
 
 
 
-![Hareesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=hareesh-r&theme=dark&show_icons=true&&hide=issues,contribs)
+![Abinitha's GitHub stats](![LeetCode Stats](https://leetcard.jacoblin.cool/Abinitha?theme=dark&font=Molle&ext=contest))
 
 [![Leetcode Stats](https://leetcard.jacoblin.cool/hareeshprogrammer?ext=contest&theme=dark)](https://leetcode.com/hareeshprogrammer)
 

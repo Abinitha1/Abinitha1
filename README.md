@@ -7,7 +7,7 @@ Artificial Intelligence and Data Science Student
 - 🤔 I’m looking for help with Placements in 
 - 💬 Ask me about Tech
 - 📫 How to reach me :
-<br /> [<img 	https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white />](https://twitter.com/hareesh_dev) [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/hareesh-r/)
+<br /> [<img scr="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />] [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />]
 - 😄 Pronouns: Techie
 - ⚡ Fun fact: I know Japanese.
 

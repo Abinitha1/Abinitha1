@@ -3,7 +3,7 @@
 Artificial Intelligence and Data Science Student
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">                                             
 - 🌱 I’m currently learning Power Bi 
-- 👯 I’m looking to collaborate on ML/AI
+- 👯 I’m looking to collaborate on Data Analyst
 - 🤔 I’m looking for help with Placements in 
 - 💬 Ask me about Tech
 - 📫 How to reach me :
